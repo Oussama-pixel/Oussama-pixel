@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Oussama-pixel
-- 👀 I’m interested in MERN STACK Web Developement , data-visualisation in python/D3.js , data-science (MySql , PostgreSql, Oracle DB, MongoDB)
-- 💞️ I’m looking to collaborate on projects in Software Development.
+- 👀 I’m interested in Software Development , Web Developement , data-science .
+- 💞️ I’m looking to collaborate on big projects and creative ideas.
 - 📫 How to reach me :
----My FB: Boujnan  Oussama---
----Insta : _oussama_bj_---
 ---LinkedIn : https://www.linkedin.com/in/oussama-boujnan
